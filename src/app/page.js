@@ -7,6 +7,7 @@ export default function Home() {
 
       <div className="mb-32 grid text-center lg:max-w-5xl lg:w-full lg:mb-0 lg:grid-cols-4 lg:text-left">
         <div className="p-8 lg:p-0 lg:col-span-4">
+
           <div className="text-center">   
           <p className="text-lg mb-8 text-left">
             💕 Quiero contarte cómo fue que nuestras vidas se cruzaron, cómo desde el primer contacto supe que eras alguien especial. Recuerdo claramente el momento en que nuestras manos se encontraron por primera vez, y en ese instante, una sensación de calidez y conexión recorrió mi ser. Desde entonces, cada interacción contigo ha sido como un rayo de sol en mi día, irradiando buena energía y amabilidad. 😍
@@ -34,8 +35,8 @@ export default function Home() {
             style={{ maxWidth: "100%", height: "auto" }}
           />
         </div>
+          </div>
         </div>
-        
       </div>
     </main>
   );
