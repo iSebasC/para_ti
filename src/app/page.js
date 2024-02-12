@@ -25,7 +25,7 @@ export default function Home() {
             💓 Mis pensamientos están constantemente llenos de ti, y mis acciones reflejan lo profundo de mis sentimientos. Te quiero más de lo que puedo expresar, y cada mirada en tus ojos es como un bálsamo para mi alma necesitada de luz. 💐
           </p>
           <p className="text-lg mb-8 text-left">
-            ❤️ En resumen lo que quiero decirte, tú eres la luz que ilumina mi camino, la sonrisa que alegra mis días y el amor que llena mi corazón. Te quiero con una intensidad que va más allá de lo imaginable. 🌺
+            ❤️ Lo que quiero decirte, tú eres la luz que ilumina mi camino, la sonrisa que alegra mis días y el amor que llena mi corazón. Te quiero con una intensidad que va más allá de lo imaginable. 🌺
           </p>
           <div className="flex justify-center w-full"> {/* Utiliza "w-full" para ocupar todo el ancho disponible */}
           <img
